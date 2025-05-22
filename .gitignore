@@ -1,0 +1,38 @@
+# Unity 기본 폴더
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific files
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 기타
+*.apk
+*.aab
+
+# Plastic SCM (Git만 사용하는 경우)
+.plastic/
